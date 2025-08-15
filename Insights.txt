@@ -1,0 +1,9 @@
+						Insights
+
+West region recorded the highest sales, followed by East and Central.
+
+Technology category contributed the largest share of sales, followed by Furniture and Office Supplies.
+
+The total sales in the dataset were approximately $2.89M.
+
+The sales trend shows an overall upward movement with noticeable peaks in certain months.
